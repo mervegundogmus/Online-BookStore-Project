@@ -1,3 +1,3 @@
 # Online-Bookstore-Project
 
-## This project developed with backend Microservices & frontend React.
+## This project developed with backend Microservices & frontend React
